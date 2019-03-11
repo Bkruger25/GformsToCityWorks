@@ -12,4 +12,22 @@ Option Explicit On
 
 
 Partial Public Class _Default
+    
+    '''<summary>
+    '''txtFormName control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents txtFormName As Global.System.Web.UI.WebControls.TextBox
+    
+    '''<summary>
+    '''btnSync control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btnSync As Global.System.Web.UI.WebControls.Button
 End Class
